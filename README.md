@@ -54,5 +54,5 @@ We are here to help you, so don’t hesitate to reach out if you need any assist
       - Git Introduction: [Git and GitHub for Beginners (YouTube)](https://youtu.be/ufKRYe8ZPaw?si=a4SBTrihYvqtEP9c)
       - Step-by-Step Guide for Git: [Access the detailed guide here](https://docs.google.com/document/d/1sjPg7S7KgbMxyA8JhXw5k92zJoDDBR6DcJh6Ezw1fbw/edit?usp=sharing)
 
-
+--- 
 Good luck, and let's make this winter challenge a memorable one!
