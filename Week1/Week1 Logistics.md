@@ -6,3 +6,6 @@
       - Pandas Quick Start: [10 Minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
       - Git Introduction: [Git and GitHub for Beginners (YouTube)](https://youtu.be/ufKRYe8ZPaw?si=a4SBTrihYvqtEP9c)
       - Step-by-Step Guide for Git: [Access the detailed guide here](https://docs.google.com/document/d/1sjPg7S7KgbMxyA8JhXw5k92zJoDDBR6DcJh6Ezw1fbw/edit?usp=sharing)
+      - Lecture 1: [Access here](https://github.com/rpyaduvanshi950/VisionCraft-TheWinter-Challenge/blob/main/Week1/Lecture%201%20-%20Python.ipynb)
+      - Lecture 2 pandas: [Access here](https://github.com/rpyaduvanshi950/VisionCraft-TheWinter-Challenge/blob/main/Week1/Lecture%202%20-%20Pandas.ipynb)
+      - Assignment: [Here](https://github.com/rpyaduvanshi950/VisionCraft-TheWinter-Challenge/blob/main/Week1/Assignment1.ipynb)
